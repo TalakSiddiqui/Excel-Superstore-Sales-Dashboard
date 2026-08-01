@@ -11,3 +11,63 @@ It helps users analyze sales performance, customer behavior, product performance
 PROJECT OVERVIEW ⤵️
 "https://github.com/user-attachments/assets/ac273edd-ec80-400b-8f1e-d9317b31da60" />
 
+🛠 Tools Used :
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Excel Functions
+- Dashboard Design
+
+💡 Skills Implemented :
+
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- KPI Dashboard Creation
+- Interactive Reporting
+- Business Reporting
+
+📈 Dashboard Features :
+
+- 📊 Total Sales KPI
+- 💰 Total Profit KPI
+- 📦 Total Orders KPI
+- 🛒 Total Quantity KPI
+- 📅 Monthly Sales Trend Analysis
+- 🌍 Sales by Region
+- 📂 Sales & Profit by Category
+- 🏆 Top 5 Products by Sales
+- 👥 Top 10 Customers by Sales
+- 🎛️ Interactive Slicers (Category, Region, Segment & Year)
+
+📊 Key Business Insights :
+
+- Technology generated the highest overall sales among all product categories.
+- Sales performance varied across different regions, highlighting differences in regional contribution.
+- A small group of customers contributed significantly to overall sales.
+- Monthly sales trends showed fluctuations throughout the year, helping identify high and low-performing months.
+- Interactive slicers allow users to analyze sales performance by Category, Region, Segment, and Year.
+
+🎯 About This Project :
+
+> This project was built as part of my Data Analytics portfolio to strengthen my
+Microsoft Excel skills and gain hands-on experience in creating interactive business dashboards.
+
+> The objective was to transform raw sales data into meaningful insights using Excel's analytical and visualization features, 
+similar to how business reports are created in real organizations.
+
+👨‍💻 Author
+
+*Talak Siddiqui*
+Aspiring Data Analyst
+
+📬 Connect with me
+- LinkedIn: https://www.linkedin.com/in/talaksiddiqui/
+- GitHub: https://github.com/TalakSiddiqui
+
+⭐ If you found this project interesting, feel free to star this repository!
+
+
+
